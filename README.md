@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" src="assets/dudu-bubu.gif" width="160"/>
+<img align="right" src="dudu-bubu.gif" width="160"/>
 
 ### Hi there! 👋 I'm Fransiskus Devin Alfaro<br><br>
 I'm a 4th-semester Computer Science student at Universitas Multimedia Nusantara with a passion for **design-driven technology**. While many dive deep into algorithms, I find joy in crafting clean, intuitive, and engaging **user experiences**.<br><br>
