@@ -2,7 +2,7 @@
 <img align="right" src="dudu-bubu.gif" width="160"/>
 
 ### Hi there! 👋 I'm Fransiskus Devin Alfaro<br><br>
-I'm a 5th-semester Computer Science student at Universitas Multimedia Nusantara with a passion for **design-driven technology**. While many dive deep into algorithms, I find joy in crafting clean, intuitive, and engaging **user experiences**.<br><br>
+I'm a 6th-semester Computer Science student at Universitas Multimedia Nusantara with a passion for **design-driven technology**. While many dive deep into algorithms, I find joy in crafting clean, intuitive, and engaging **user experiences**.<br><br>
 
 🖌️ I specialize in:<br>
 - **UI/UX Design** — building wireframes, prototypes, and user flows using tools like Figma.<br>
